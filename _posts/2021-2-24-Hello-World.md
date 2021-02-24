@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 category: blog
+comments: true
 ---
 
 # My first Blog Post
